@@ -1,0 +1,12 @@
+.inner_container{
+    padding: 20px;
+    margin: 5%;
+    border: solid purple 2px;
+}
+.container{
+    border: dotted 1px orchid ;
+    width: 50%;
+    margin: auto;
+    
+
+}
